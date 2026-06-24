@@ -251,7 +251,7 @@ Developed using C++17 as a welding engineering and educational expert system pro
 
 | Name | Email |
 |--------|--------|
-| Abolfazl Mohammadi Yaychi| abolfazl@example.com |
+| Abolfazl Mohammadi Yaychi| abolfazlqw12@gmail.com |
 | Aliakbar Nouri | Aliknouri1382@gmail.com  |
 | Reyhaneh Asle Ghasemi | reyhanehaslegasemi@gmail.com |
 
