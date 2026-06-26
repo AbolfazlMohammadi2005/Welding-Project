@@ -191,18 +191,18 @@ No manual engineering tables are required.
 WeldingExpertSystem/
 │
 ├── include/
-│   ├── MetalData.h
-│   ├── MaterialDatabase.h
-│   ├── WeldingData.h
-│   ├── WeldingCalculator.h
 │   ├── DiameterSelector.h
-│   └── ReportGenerator.h
+│   ├── MaterialDatabase.h
+│   ├── MetalData.h
+│   ├── ReportGenerator.h
+│   ├── WeldingCalculator.h
+│   └── WeldingData.h
 │
 ├── src/
-│   ├── MaterialDatabase.cpp
-│   ├── WeldingCalculator.cpp
 │   ├── DiameterSelector.cpp
-│   └── ReportGenerator.cpp
+│   ├── MaterialDatabase.cpp
+│   ├── ReportGenerator.cpp
+│   └── WeldingCalculator.cpp
 │
 └── main.cpp
 ```
