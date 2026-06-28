@@ -1,5 +1,6 @@
 #include <iostream>
 #include <iomanip>
+#include <cmath>
 
 #include "../include/ReportGenerator.h"
 
@@ -77,7 +78,7 @@ void ReportGenerator::printReport(
 
     cout
         << "Voltage             : "
-        << result.voltage
+        << abs(result.voltage)
         << " V\n";
 
     cout
@@ -88,7 +89,7 @@ void ReportGenerator::printReport(
     cout
         << "Travel Speed        : "
         << result.speed
-        << endl;
+        << "mm/min";
 
     cout
         << "Heat Input          : "
