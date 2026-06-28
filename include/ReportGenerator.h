@@ -3,6 +3,7 @@
 
 #include "MetalData.h"
 #include "WeldingData.h"
+#include <cmath>
 
 class ReportGenerator
 {
