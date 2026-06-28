@@ -248,7 +248,7 @@ int main()
     cout
         << "Speed: "
         << result.speed
-        << endl;
+        << " mm/min\n";
 
     cout
         << "Heat Input: "

@@ -86,10 +86,10 @@ void ReportGenerator::printReport(
         << result.power
         << " W\n";
 
-    cout
-        << "Travel Speed        : "
-        << result.speed
-        << "mm/min";
+  cout
+    << "Travel Speed        : "
+    << result.speed
+    << " mm/min\n";
 
     cout
         << "Heat Input          : "
